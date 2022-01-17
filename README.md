@@ -7,4 +7,4 @@ Repository](https://github.com/crev-dev/crev/wiki/Proof-Repository).
 
 <!-- Feel free to customize this file below this line -->
 
-Composable is attempting to completely audit every dependency of it's Rust codebase, in collaboration with the wider Polkadot, Kusama and Rust ecosystem through the usage of `Crev`. Check out the [wiki](https://github.com/ComposableFi/crev-proofs/wiki).
+Composable is attempting to completely audit every dependency of it's Rust codebase, in collaboration with the wider Polkadot, Kusama and Rust ecosystem through the usage of `Crev`. Check out the [wiki](https://github.com/ComposableFi/crev-proofs/wiki) to get started and participate!
