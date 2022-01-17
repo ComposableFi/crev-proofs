@@ -1,0 +1,17 @@
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: "2022-01-17T11:11:23.272326395+01:00"
+from:
+  id-type: crev
+  id: QDdTYHrJgFDuZ62A4S59XffxfRmNCDjxJQZZMbJu-AU
+  url: "https://github.com/composablefi/crev-proofs"
+ids:
+  - id-type: crev
+    id: h2qAMGy777KobqCn93bmCJ2EFJUGTc42Y_SHkFDegTw
+    url: "https://github.com/kaiserkarel/crev-proofs"
+trust: high
+----- SIGN CREV PROOF -----
+IBcWfJYL6Ug3_FCNtFvlwJUoRIglODMLTCGT-nQu_monlau6rnI72GLgAIeF_QhepB2Ofuw858faInYREuDXBA
+----- END CREV PROOF -----
+
