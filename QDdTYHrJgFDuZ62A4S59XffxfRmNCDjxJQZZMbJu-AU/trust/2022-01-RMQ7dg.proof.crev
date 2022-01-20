@@ -66,3 +66,20 @@ trust: high
 e8dt68yXENsnoo6tLFa2innUJczFEG5EjEVX7fslh5XJ1hgMru7jojpFkxicGhTwLHcUEgnjI-Vihq2EroDmAg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: "2022-01-20T14:05:52.723426916+01:00"
+from:
+  id-type: crev
+  id: QDdTYHrJgFDuZ62A4S59XffxfRmNCDjxJQZZMbJu-AU
+  url: "https://github.com/composablefi/crev-proofs"
+ids:
+  - id-type: crev
+    id: FF2Olq9qyKvu2LdxSIeQPKpIAlNAhVsWA0ha5Rw-gJk
+    url: "https://github.com/benluelo/crev-proofs"
+trust: high
+----- SIGN CREV PROOF -----
+dJ2bXiEOSVYhwdzwOjxzt-vQLDE3dg0hMb4xlwW_8PZczSZ20j3Eoef7QwxEkI2hHqnUKDu6SlglhqRXxDE5AA
+----- END CREV PROOF -----
+
