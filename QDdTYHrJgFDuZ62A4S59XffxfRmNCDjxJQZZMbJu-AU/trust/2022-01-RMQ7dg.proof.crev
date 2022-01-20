@@ -49,3 +49,20 @@ trust: high
 -_5ZrrUU1thsXTxH8C42_jYoWHp-RPV6YcOqcEMHmN7F9jTQCXNp2WpfsY_mmgSCD0qPLVeawwdngqn4Wx2VBA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: "2022-01-20T14:05:26.973596305+01:00"
+from:
+  id-type: crev
+  id: QDdTYHrJgFDuZ62A4S59XffxfRmNCDjxJQZZMbJu-AU
+  url: "https://github.com/composablefi/crev-proofs"
+ids:
+  - id-type: crev
+    id: J6K1lYkDwAFRd4nAV49BUKJXO7ruVWYIrgfRQwOpUsQ
+    url: "https://github.com/dzmitry-lahoda/crev-proofs"
+trust: high
+----- SIGN CREV PROOF -----
+e8dt68yXENsnoo6tLFa2innUJczFEG5EjEVX7fslh5XJ1hgMru7jojpFkxicGhTwLHcUEgnjI-Vihq2EroDmAg
+----- END CREV PROOF -----
+
